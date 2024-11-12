@@ -29,12 +29,7 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
-    {
-      skill_name: "Redux",
-      Image: "/redux.png",
-      width: 80,
-      height: 80,
-    },
+    
     {
       skill_name: "React Query",
       Image: "/reactquery.png",
@@ -48,7 +43,7 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Next js 13",
+      skill_name: "Next js 15",
       Image: "/next.png",
       width: 80,
       height: 80,
@@ -87,14 +82,14 @@ export const Skill_data = [
       link: "https://twitter.com/saddambd10",
     },
     {
-      name: "Discord",
-      src: "/instagram.svg",
-      link:"",
+      name: "Linkedin",
+      src: "/linkedin.svg",
+      link: "https://www.linkedin.com/in/saddambd/",
     },
     {
-      name: "Facebook",
-      src: "/facebook.svg",
-      link: "",
+      name: "Github",
+      src: "/github.svg",
+      link: "https://github.com/saddambd",
     },
     
   ];
@@ -244,16 +239,6 @@ export const Skill_data = [
   
   ];
   
-  
-  
-  export const Other_skill = [
-    {
-      skill_name: "Go",
-      Image: "/go.png",
-      width: 60,
-      height: 60,
-    },
-  ];
   
   
   
